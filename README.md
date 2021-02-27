@@ -8,4 +8,4 @@ The time evolution is performed using integrated RKW3 IMEX scheme and spatially 
 ## Check out the vorticity dynamics in this video
 https://www.youtube.com/watch?v=3a-gHK3Mc_k&ab_channel=AchalMahajan
 
-If you like this code, feel free to use it though it's not the best (or optimized) version that you can on the internet
+If you like this code, feel free to use it though it's not the best (or optimized) version that you can find on the internet, but will highly recommend if you are just trying to scratch the surface.
