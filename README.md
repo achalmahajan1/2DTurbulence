@@ -6,4 +6,4 @@ The simulation has been time integrated using RKW3 IMEX  scheme and spatially di
 ## Check out the vorticity dynamics in this video
 https://www.youtube.com/watch?v=3a-gHK3Mc_k&ab_channel=AchalMahajan
 
-## If you like this code, feel free to use it though it's not the best (or optimized) version that you can on the internet
+If you like this code, feel free to use it though it's not the best (or optimized) version that you can on the internet
