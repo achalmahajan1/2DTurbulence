@@ -1,5 +1,5 @@
 # 2DTurbulence in a periodic box
-This code simulates the temporal evolution of vorticity contours in 2D homogeneous isotropic turbulence using 1024 spatial grid points in both x and y direction. 
+This pseudo-spectral code simulates the temporal evolution of vorticity contours in 2D homogeneous isotropic turbulence using 1024 spatial grid points in both x and y direction. 
 The Navier Stokes equations are written in terms of vorticity/streamfunction with no stretching term. The linear term is solved implicitly whereas the non linear (convection) term is solved explicitly.
 
 The simulation has been time integrated using RKW3 IMEX  scheme and spatially discretized using Pseudospectral methods.
